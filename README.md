@@ -1,5 +1,5 @@
 ## Learnwell Educational Video Sharing Repository
-online educational video sharing/interaction platform . . . submission for Codelabs code assesment
+online educational video sharing/interaction platform . . . submission for Codelabs code assesment.
 Loom video available [here](https://www.loom.com/share/e59583343fbe4bfa9265180e0dba4005?sid=21f1b4ba-1d43-4230-9c38-3705f2744d74)
 
 ## How to Run
