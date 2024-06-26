@@ -1,0 +1,26 @@
+.wrapper {
+  flex: 1;
+  margin: 5px 5px 5px 10px;
+  height: 90vh;
+  min-width: 30vw;
+  max-width: 1080px;
+
+  .card {
+    height: 100%;
+    background-color: #f2f2f2;
+
+    .inputContainer {
+      padding: 10px;
+      background-color: #d9d9d9;
+
+      button {
+        margin-top: 5px;
+      }
+    }
+
+    .commentContainer {
+      height: 100%;
+      overflow: auto;
+    }
+  }
+}

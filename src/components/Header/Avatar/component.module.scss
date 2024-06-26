@@ -1,0 +1,13 @@
+.addVideoButton {
+  margin-right: 10px;
+}
+
+.avatarLoggedInContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  .name {
+    margin-left: 10px;
+  }
+}

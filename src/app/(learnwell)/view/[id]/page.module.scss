@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  .left {
+    width: 100%;
+    max-width: 1080px;
+  }
+}
