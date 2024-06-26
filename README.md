@@ -36,7 +36,7 @@ application can be accessed on mobile devices as learning on the go is always a 
 - Mantine UI
 - SQlite3
 
-##Future Considerations
+## Future Considerations
 Given more time I would have refactored some of the internals to have a better layout so there isnt so much state passing for things like video searches.
 I would also like to have expanded on the database to allow for custom usernames as well as log video ids so that the application can be more self contained instead of feeding from other submissions as well as included a more robust authentication server to allow for proper user creation and retrival.
 While the application can be viewed on small devices such as phones and tablets it is far from a perfect solution and much work can be done improving the responsiveness and give it a better feel. Though responsiveness can also be extended into the full application with additions such as being able to lazily load the videos in.
