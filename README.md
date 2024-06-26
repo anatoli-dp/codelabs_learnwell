@@ -1,8 +1,8 @@
-##Learnwell Educational Video Sharing Repository
+## Learnwell Educational Video Sharing Repository
 online educational video sharing/interaction platform . . . submission for Codelabs code assesment
 Loom video available [here](https://www.loom.com/share/e59583343fbe4bfa9265180e0dba4005?sid=21f1b4ba-1d43-4230-9c38-3705f2744d74)
 
-##How to Run
+## How to Run
 copy code repository and go inside root folder
 ```bash
 # install necessary components
@@ -31,7 +31,7 @@ adding videos is done by using youtube links. This was in my opinion the best wa
 application can be accessed on mobile devices as learning on the go is always a welcome experience
 ![mobile layout](https://raw.githubusercontent.com/anatoli-dp/codelabs_learnwell/main/pics/r_mobile.png)
 
-##Tools
+## Tools
 - NextJS
 - Mantine UI
 - SQlite3
