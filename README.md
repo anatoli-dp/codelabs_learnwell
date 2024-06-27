@@ -19,7 +19,7 @@ npx next start
 ```
 navigate to ```localhost:3000``` to see the app
 
-##General Overview
+## General Overview
 Learnwell is setup like a video repository much like how youtube works but dedicated to educational content. There is a home page which lists videos and a page to view videos and comment
 ![home page](https://raw.githubusercontent.com/anatoli-dp/codelabs_learnwell/main/pics/home.png)
 ![video page](https://raw.githubusercontent.com/anatoli-dp/codelabs_learnwell/main/pics/video_player_with_comments.png)
